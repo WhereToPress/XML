@@ -1,1 +1,9 @@
-
+<?xml version="1.0" encoding="UTF-8" ?>
+  <Bug>
+    <ID>001</ID>
+    <Title>wrong result of the calculator</Title>
+    <Steps>Open app. Entering: 1+1</Steps>
+    <Actual_result>4</Actual_result>
+    <Expected_result>2</Expected_result>
+    <Bug_severity>critical</Bug_severity>
+  </Bug>
